@@ -1,0 +1,13 @@
+{
+  "name": "vuepress-plugin-live2d",
+  "version": "1.0.0",
+  "description": "plugin for vuepress live2d",
+  "keywords": [
+    "vuepress-plugin-live2d",
+    "vuepress",
+    "vuepress看板娘"
+  ],
+  "main": "index.js",
+  "author": "前端有道",
+  "license": "MIT"
+}

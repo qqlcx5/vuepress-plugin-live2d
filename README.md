@@ -1,15 +1,15 @@
-# vuepress-plugin-live2d
+# vuepress-plugin-live2d-model
 
 ## How to use
 
-1. install `npm i vuepress-plugin-live2d -S`
+1. install `npm i vuepress-plugin-live2d-model -S`
 
 2. add in `config.js`
 
 ```js
 module.exports = {
   plugins: [
-    "vuepress-plugin-live2d",
+    "vuepress-plugin-live2d-model",
   ]
 }
 ```

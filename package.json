@@ -1,9 +1,9 @@
 {
-  "name": "vuepress-plugin-live2d",
+  "name": "vuepress-plugin-live2d-model",
   "version": "1.0.0",
   "description": "plugin for vuepress live2d",
   "keywords": [
-    "vuepress-plugin-live2d",
+    "vuepress-plugin-live2d-model",
     "vuepress",
     "vuepress看板娘"
   ],

@@ -1,6 +1,6 @@
 {
   "name": "vuepress-plugin-live2d-model",
-  "version": "1.0.0",
+  "version": "1.0.7",
   "description": "plugin for vuepress live2d",
   "keywords": [
     "vuepress-plugin-live2d-model",
